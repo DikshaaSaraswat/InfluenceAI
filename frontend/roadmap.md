@@ -1,0 +1,7 @@
+- [x] Shared layout + six pages wired to FastAPI
+- [x] Mobile-friendly sidebar and pages
+- [x] Keyboard nav + focus handling for mobile menu
+- [x] Screen-reader labels/announcements for menu open/close
+- [ ] Verify the FastAPI OpenAPI contract and correct request/response mismatches
+- [ ] Refresh affected views after every successful mutation without sending email in tests
+- [ ] Run integration checks and document any unavailable backend verification or CORS needs
